@@ -49,3 +49,7 @@ aside, section {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.appbadge{
+    width: 162px;
+    height: 70px;
+}
